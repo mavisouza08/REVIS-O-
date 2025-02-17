@@ -1,0 +1,32 @@
+body {background-color: rgb(156, 88, 245);
+}
+h1 {text-align: center;
+    font-size: 250%;
+     color:rgb(242, 233, 245);}
+#ima1 {width: 50%;
+    margin-left: 25%;
+}
+h3 {font-size: 200%;
+    text-align: center;
+    color:rgb(255, 255, 255);
+}
+h2{
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+#ima2 {width: 50%;
+    margin-left: 25%;
+}
+
+.tito{
+    border-color: rgb(228, 228, 233);
+    border-style: double;
+    border-color: rgb(234, 234, 240);
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.tito {
+    font-size: large;
+}
