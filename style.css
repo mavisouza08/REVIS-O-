@@ -20,6 +20,11 @@ h2{
 #ima2 {width: 50%;
     margin-left: 25%;
 }
+
+h4{
+    text-align: center;
+}
+
 h5{
     font-size: 100%;
     color: rgb(255, 255, 255);
