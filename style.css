@@ -20,6 +20,11 @@ h2{
 #ima2 {width: 50%;
     margin-left: 25%;
 }
+h5{
+    font-size: 200%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
 
 .tito{
     border-color: rgb(228, 228, 233);
